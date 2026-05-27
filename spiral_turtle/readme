@@ -1,0 +1,26 @@
+# ROS2 Spiral Turtle
+
+A simple ROS2 turtlesim project where the turtle moves in an expanding spiral using velocity commands.
+
+## Technologies
+- ROS2 Humble
+- Python
+- turtlesim
+
+## Run
+
+```bash
+ros2 run turtlesim turtlesim_node
+
+
+
+In another terminal:
+
+ros2 run spiral_turtle spiral
+
+Then:
+
+```bash id="gfdjlwm"
+git add .
+git commit -m "Added README"
+git push
