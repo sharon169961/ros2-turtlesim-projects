@@ -32,3 +32,13 @@ Generates geometric polygon trajectories dynamically based on user-defined param
 - ROS2
 - Python
 - turtlesim
+
+## Project Media
+
+[Screencast from 2026-05-27 13-45-57.webm](https://github.com/user-attachments/assets/9f8d069b-6b8b-41eb-b9c4-0d77b2db84db)
+<img width="1600" height="904" alt="image" src="https://github.com/user-attachments/assets/e786935a-bb7a-40bf-ac75-819d82dfaef9" />
+<img width="1600" height="903" alt="image" src="https://github.com/user-attachments/assets/059fdaec-c088-4ef3-862d-5549bb90f2fb" />
+<img width="1600" height="509" alt="image" src="https://github.com/user-attachments/assets/757fe978-be93-4d15-be42-6e8b21608b9f" />
+
+
+
